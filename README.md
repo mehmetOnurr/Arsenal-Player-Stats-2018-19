@@ -1,5 +1,5 @@
 # Arsenal-Player-Stats-2018-19
-Arsenal Player Stats 2018-19 Analysis with Tabluae
+Arsenal Player Stats 2018-19 Analysis with Tableau
 
 Arsenal player's stats are analyzed and visualized. The visualization aim is gain information about Arsenal players. When you view the dashboard, you can choose the single player on 'Ranks of Players' graph.
 
